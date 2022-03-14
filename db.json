@@ -1,0 +1,14 @@
+{
+  "supermarkets": [
+    {
+        "id": "1",
+        "name": "Walmart",
+        "logo": "walmart.png"
+    },
+    {
+        "id": "2",
+        "name": "Angeloni",
+        "logo": "angeloni.png"
+    }
+  ]
+}
